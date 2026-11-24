@@ -24,7 +24,7 @@ I'm a third-year CSE student who enjoys learning programming, building projects 
 - **Purpose:** A simple application to manage daily tasks.
 - **Technologies:** HTML, CSS, JavaScript.
 - **Features:** Add, edit, delete and complete tasks with Local Storage.
-- **Execution:** Open `index.html` in a browser.
+- **Execution:** Open `file:///C:/Users/harin/OneDrive/Desktop/Ex.01-Portfolio/my_portfolio/index.html` in a browser.
 - **Status:** Completed.
 - **Contribution:** Designed and developed the application and its functionality.
 
