@@ -7,7 +7,7 @@ I'm a third-year CSE student who enjoys learning programming, building projects 
 
 ### 🚀 Technical Skills
 - **Programming Languages:** (Java, Python, C) [Intermediate Level]
-- **Web Technologies:** HTML, CSS, JavaScript
+- **Web Technologies:** (HTML, CSS, JavaScript) [Intermediate Level]
 - **Tools:** Git, GitHub, VS Code
 - **Currently Exploring:** React and Full-Stack Development
 
